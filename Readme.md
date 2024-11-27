@@ -1,0 +1,1 @@
+Projeto que simula a criação de um blog fictício de tecnologia para o exercício da aplicação de estilos no documento HTML através do CSS3. Este projeto é a parte de um curso de desenvolvimento web criado pelos instrutores Jorge Sant Ana e Jamilton Damasceno. 
